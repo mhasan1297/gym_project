@@ -20,7 +20,6 @@ const Detail = ({ exerciseDetail }) => {
       name: bodyPart,
     },
   ];
-  console.log(gifUrl);
   return (
     <Stack
       gap="60px"
